@@ -1,4 +1,4 @@
-### Hi there 👋, Counting Sort
+### Counting Sort
 ###### What is Counting Sort?
 
 It is one of the sorting algorithms developed to keep the data in order in memory. It simply counts how many of each number in the array to be sorted is in a different array. It then obtains the array sorted by an operation above the array of these numbers. There are many different ways to do the sorting. But there are basically two performance criteria in computer science. These;
